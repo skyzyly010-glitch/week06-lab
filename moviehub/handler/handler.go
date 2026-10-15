@@ -8,6 +8,7 @@ import (
 
     "moviehub/store"
 	"moviehub/auth"
+    "errors"
 )
 
 type Handler struct {
